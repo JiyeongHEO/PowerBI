@@ -40,9 +40,11 @@ type(a) # <class 'int'> 그외 float, bool, str....
 '''
 [연산자]
 +)산술:
-//몫 %나머지
+//:몫,  %:나머지
 float % float  = 나머지00004가 됨(반올림하면 잘못됨) -> float*10 % float*10 = 나머지*10
+
 +)논리: and, or, not
+
 +)대입: a,b=100,200됨, (a,b):교환 , 패킹(*):
     lst1 = 1,2,3,4,5 #튜플
     list2=[1,2,3,4,5] #리스트
@@ -56,6 +58,7 @@ float % float  = 나머지00004가 됨(반올림하면 잘못됨) -> float*10 % 
 '''
 [표준입력]
 num = input('숫자입력: ') #초록글자 # 'str'
+
 num2 = int(input('숫자입력: ')) # int
 '''
 ''' 
@@ -82,12 +85,16 @@ print('-> 총칼로리: ', tot , 'Kcal')
 '''
 [출력장치]
 print(어쩌구 sep='-') #010-1111-2222
+
 print(end='') print() #개행안함,  end='-' #위와같음 
+
 format(변수, '.3f') #실수 && .3자리까지 표시한다(반올림됨)  '8.3f': 총 8자리로 우측정렬
 '10d': 10진수 
 print('10진수: %d' %a) #참조,10진수  %o:8진수  %x:16진수
 print('10진수: %d, 8진수: %o 16진수~' %(a a a))
+
 print('%d%%' %a) # %:escpae
+
 +) 외부상수
 print('이름: %s, 나이: %d' %(name, age))
 print('이름: {} 나이:{}'.format(name, age))
@@ -99,7 +106,9 @@ print('이름: {} 나이:{}'.format(name, age))
 [0:4]: 0포함 +4
 [1:5:2]: 1부터 5자리, 2칸에한개씩
 [0::3]: 3의배수
+
 ' '.join(리스트): 리스트[] 안의 것을 ' '(구분자)로 연결
+
 print('현재온도는 %.1f입니다' %temp) #24.5(000000제거)
 string.find('뭐') #index, int
 
@@ -116,7 +125,7 @@ string.find('뭐') #index, int
 # word3=input('세번쨰:')
 # sum = word1[0]+word2[0]+word3[0]
 # print(' 1:%s \n 2:%s \n 3:%s ' %(word1,word2,word3) )
-# print('='*20)
+# print('=' * 20)
 # print(' 약자:' , sum )
 
 # sec = int(input('초 입력: '))
@@ -146,19 +155,3 @@ changes2 = changes%500
 coin2 = changes2//100
 
 print(' 거스름돈 500원:%d개, 100원:%d개' %(coin1, coin2))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

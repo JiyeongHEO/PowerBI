@@ -51,7 +51,7 @@
 '''
 
 '''
-[random]모듈 - import필요
+# [random]모듈 - import필요
 .randint(a,b) a~b범위에서...
 .random()
 
@@ -123,12 +123,3 @@
 삽입 .insert(인덱스, 값)
 삭제2 .remove(값)
 '''
-
-
-
-
-
-
-
-
-
