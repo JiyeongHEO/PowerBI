@@ -75,16 +75,16 @@ x=float(int(input('숫자입력: ')))
 y = (2.5* (x**2)) + (3.3*x) + 6
 print('2차방정식결과: ', y)
 
-fat = int(input(' 지방입력: '))
-calb = int(input(' 탄수입력: '))
-prot = int(input(' 단백질입력: '))
+fat = int(input(' 지방입력: ')) ...생략...
 tot = fat*9 + calb*4 + prot*4
 print('-> 총칼로리: ', tot , 'Kcal')
 '''
 
 '''
 [출력장치]
-print(어쩌구 sep='-') #010-1111-2222
+print(어쩌구 sep='-') #010-1111-2222 (어쩌구 사이에 -를 붙힌다)
+
+print('aaa''bbb')      #aaabbb (가능. 붙어서 나옴)
 
 print(end='') print() #개행안함,  end='-' #위와같음 
 

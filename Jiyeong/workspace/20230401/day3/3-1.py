@@ -72,7 +72,7 @@ for g in grade:
 '''
 
 '''
-# [모듈 & 패키지]
+# [모듈 & 패키지] -1
 예:~~python311\Lib
 *모듈: .py 
  내장함수: builtin함수 ( len(),sum(),max(),min() ), import함수(from statistics import mean만 가져온다),
@@ -94,7 +94,7 @@ iPutManyNums(name, 1,2,3,4,5,6,7,8,9)
 * def check소수():
     num = 2
     cnt=0
-    while num<=100:
+    while num<=100:      #range(2,101)
         chk = True
         for i in range(2, num // 2 + 1):
             if num % i == 0:     #return False
@@ -104,8 +104,9 @@ iPutManyNums(name, 1,2,3,4,5,6,7,8,9)
         if chk == True:
             cnt+=1
         num += 1
-    
-
       
 *패키지: 폴더
 '''
+
+
+
