@@ -24,14 +24,14 @@
     #     fff.write('%d\n' %(i))
     # fff.close()
 
-.write(i)       #안됨
+.write(i)               #안됨
 .write('%d\n' %(i))     #됨
 
-.readline()     #한줄씩, 보통 while이용
+.readline()                             #한줄씩, 보통 while이용
         fff = open('0409.txt','r')      #mode변경 주의
         while True:
             ll =fff.readline()
-            if not ll:
+            if not ll:                  # line없으면 끝
                 break
             print(ll, end=' ')
             
@@ -159,7 +159,28 @@ module.py로...
 
 
 from re import findall,match
-emp=['2023김가을100','2023이가을이200','2023박가을300']
-for str in emp:
-    print(findall('(?<=[가-힣])[\d\.]+', str))
+from statistics import mean
 
+emp=['2023김가을100','2023이가을이200','2023박가을300'] #입사년도,이름,급여
+pay=[]
+
+#급여평균 by 함수로
+def pay_pro(xxx):
+    for str in emp:
+        #name = findall('[가-힣]{3}', str)
+        p=findall('[0-9]{3}$', str)             #type: list
+        pp = int(p[0])
+        pay.append(pp)
+    #print(mean(pay))
+    return mean(pay)
+
+meanpay = pay_pro(emp)
+
+#급여평균이상 by 함수로
+for i in range(len(emp)):                       #idx로 돌림
+    if pay[i] >= meanpay:
+        print(pay[i],',',emp[i])
+
+
+        
+    
