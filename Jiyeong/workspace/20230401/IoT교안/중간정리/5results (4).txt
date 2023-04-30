@@ -1,0 +1,721 @@
+
+IN-AE
+Mca
+Infrastructure Node (IN)
+IN-AE
+Mca
+Infrastructure domain
+IN-CSE
+To an Infrastructure Node of other M2M Service Providers
+Mcc'
+Mcn
+Middle Node (MN)
+Mcc
+Mcc
+Mca+
+MN-AE
+- Mca
+MN-CSE
+Mcc
+Mcn
+Application Dedicated Node (ADN)
+Application Service Node
+(ASN)
+ADN-AE
+ASN-AE
+T
++ Mca
+ASN-CSE
+H-
+Mcn
+Non-oneM2M
+Device Node (NoDN)
+Device Domain
+AE
+AE
+Mca
+Mca
+Mcc
+CSE
++ Mcn
+T AE
+Non-oneM2M
+Device Node (NoDN)
+Middle Node
+App Node
++ Mca
+AE
+AE
++Mca CSE
++Mca
+CSE
+Mcc
++ Mcn
++Mcn
+Application
+Device Domain
+Non-oneM2M
+Device Node
+(NoDN)
+Platform
+Domain
+CSE
++ Mcn Infrastructure Node
+Mca
+App Domain
+AE
+-Mcc
+Middle Node (MN)
+MN-AE
+Mcal
+MN-CSE
+Field domain
+Mcn
+Mca +
+++ Mcc
+Application Dedicated
+Node (ADN) ADN-AE
+Application Service Node (ASN)
+ASN-AE Mca
+ASN-CSE
+Non-oneM2M Device Node (NoDN)
+Non-oneM2M Device Node (NoDN)
+Platform Domain
+Application Domain
+Service Node
+Cleaning Surveillance
+Middle Node
+Infrastructure Node
+Application
+Application
+1
+Mca
+Mcc
+Delivery Handling
+Delivery Handling Data Mgmt
+Discovery
+Mcc
+Delivery Handling
+Mca
+Data Mgmt
+Data Mgmt
+Push Func
+Push Func.
+Application Dedicated Node
+Washing Application
+Mca
+Application Dedicated Node
+Refrigerator Application
+Application Layer
+AE
+Mca
+Service Layer
+CSE
+AE
+C
+M2M Service
+Platform
+1
+Handset Application (AE)
+Home Control Application
+AE
+Mca
+Mca
+CSE
+Mcn
+CSE
+CSE
+Mcn Mcc
+Mcn-Mcn
+Mcc
+Mcn Mcc
+Network Layer
+NSE
+Underlying NSE
+NSE
+Network
+Underlying Network
+NSE
+Device
+Gateway
+Server
+Other Server
+Entities
+AE (Application Entity), CSE(Common Services Entity) And NSE (Network Services Entity)
+Reference Point One or More interfaces - Mca, Mcn, Mcc and Mcc'
+APPLICATION
+LAYER
+loT Application
+Capabilities
+Management
+Generic Management
+Specific Management Capabilities
+SERVICE SUPPORT
+AND
+APPLICATION SUPPORT
+Generic Support Capabilities
+LAYER
+NETWORK
+LAYER
+DEVICE
+LAYER
+Specific Support Capabilities
+Networking Capabilities
+Transport Capabilities
+Device Capabilities
+Gateway
+Capabilities
+Communication
+management capability
+Application management capability
+Service and device discovery and registration capability
+Service accounting and charging capability
+Device management capability
+Data processing capability
+Security capability
+Location provisioning capability
+Group management capability
+Diagnostic and fault recovery capability
+Identification naming
+and addressing capability
+Specific support capabilities
+Capabilities
+Specific
+Security Capabilities
+Security
+Generic Security Capabilities
+Application
+Management Service Organization
+IoT Process Management Process Modeling
+Virtual Entity
+loT Service
+Security
+Configuration
+Fault
+Reporting
+Service Composition Service Orchestration Service Choreography
+Process Execution
+VE & LOT Service Monitoring
+VE Resolution
+VE Service
+Authorization
+Key Exchange & Management
+Trust
+& Reputation
+Member
+State
+loT Service Resolution
+loT Service
+Identity Management
+Authentication
+Business Layer (비즈니스 계층)
+End to End Communication
+Communication Network Communication
+Device
+Hop to Hop Communication
+Business Models
+Flow-charts
+Graphs
+System Management
+Application Layer (응용 계층)
+Middleware Layer (미들웨어 계층)
+Info Processing
+Network Layer (네트워크 계층)
+Perception Layer (인식 계층)
+Smart Applications and Management
+Ubiquitous Computing Service Management
+Secure Transmission
+Physical Objects
+Database
+Decision Unit
+3G, UMTS, WiFi, Bluetooth, infrared, Zigbee, etc
+RFID, Barcode, Infrared Sensors
+DIYSE Local Domain
+DIYSE User Domain DIYSE User Domain
+Wireless Sensor
+Cloud
+Networks
+Application
+Computing
+"New of Thing"
+Surveillance
+Critical infrastructure monitoring
+Environment monitoring
+Health monitoring
+Smart Transportation
+Visualization
+Analytics
+SaaS PaaS
+computation
+laaS
+Storage
+Security, Re-configurability, Quality of Service, Communication protocols, Location Awareness, compressive Sensing
+Application
+Catalog
+Market Place Sharing Platform
+Service
+Composition
+and Exposure
+Layer
+Shared
+Domain
+ontology
+Device
+Service
+Registry
+Device Registry
+You Tube
+flickr
+amazon
+Application Creation Mashups
+pachube talk
+Deployment
+Contextualisation Layer
+and Execution
+Layer
+Cloud DIYSE Gateway
+Enhanced Driver Repository
+Distant Autonomous IP Network
+Local
+Execution
+Driver
+Device
+Manager Testing
+Device Manager
+DIYSE Gateway Device Exposure Layer Device
+G
+Wi Fi
+Repository Service
+PnP Discovery Module
+Repository
+DIYSE Service
+Framework|
+E4
+E4
+E4
+User (Application of Service)
+E1
+Processing and Reasoning Layer (CPRL)
+Context and
+Semantic
+Discovery
+Layer (CSDL)
+Sensing
+(Physical,
+Virtual)
+Layer
+Context Knowledge Base (CKB)
+SmartObject Platform
+SmartObjects
+C10
+C14
+Secondary Context Processor(SCP)
+Open Linked Data
+Semantics,
+Data,
+and Context
+Dissemination
+Layer (CDL)
+Request
+Analytics (Multi-Model Interface, (Storage, Processing, User Oriented FrontE2 Visualization)
+Data Dispatcher(DD) C19
+Context Registry(CR)
+C13 Reasoning Engine(RE)
+SDD Local
+C8
+SDD Cloud Repository (SDDCR)
+<SDD> <SDD>
+Repository (SDDLR) <SDD> <SDD>
+(SDDX <SDD>
+<SDD>
+C7
+<SDD>
+SDD>
+<SDD>
+<SDD>
+Cloud Logs)
+Publish/Subscribe(P&S) C18
+End(UOFE) Request Manager(RM)
+C1
+Primary Context Processor(PCP)
+Context Provider Registry(CPR)
+C17
+C11
+C3
+Context and Semantic Discoverers(CSD)
+C12 Data Fusion Operator Repository(DFOR) C15 C16
+Context and
+Semantic Generator (CSDG)
+C5
+C4
+Context and Semantic Discoverers Repository(CSDR)
+Sensor Wrapper
+Generator(SWG) (ASCM4GSN Tool)
+(IoT)
+S2
+S4
+E3
+Sensor Wrappers (SW) (GSN Wrappers)
+Integration Protocols (RESTfull, Streaming, etc.)
+App App
+App App
+SmartServer
+Sn
+Physical or Virtual Sensor (Context Sources) SmartServer Platform
+C9
+Sensor Wrappe Co Repository(SWR)
+Sensor Data Acquisition Layer(SDAL)
+IoT Sensors and
+Actuators
+Different comm.
+Protocols
+SmartObjects (GW)
+SmartMobile
+Platform
+People
+Things
++
+Business
+Local Wireless
+Local
+SmartServer
+Cloud SmartServer
+Internet
+Mob Mob
+App
+App
+Request Notification API
+App
+App
+SmartMobile Middleware
+Phone Sensors
+или
+Sensors
+3rd party Applications Platform Functional Components (WP3)
+Mobile OS APIs
+BUTLER Internal APIs BUTLER External APIs
+Actuators
+Communication.
+loT Wireless Sensors Map
+ENERGY STORAGE MODULE
+Li-Ion battery
+AAA/AA Batteries
+Energy Harvesting
+RF MODULE
+POWER MANAGEMENT MODULE
+Ultra-capacitors
+Microbatteries
+Power Management Module
+Energy Harvester
+Battery
+Power Management Circuit
+Power Circuit Management
+Energy Storage Module
+Signal Processing Radio Transceiver
+Unit
+Wifi
+ZigBee
+Bluetooth LE
+©2014-11
+Building Automation
+•
+Duplexer
+BAW
+Retail & Logistics
+Sensor
+Image
+Accelero
+Gyro
+Light
+Temp.
+Sensor
+Sensor
+Pressure
+ZigBee
+Sensor
+Magneto.
+Radio
+Signal
+Wi-Fi
+Transceiver Processing
+Module
+ULP
+Module
+Bluetooth
+RF Module
+Healthcare & Life
+Science
+Industrial
+Transportation
+SAFETY
+FIRST
+Security &
+Public Safety
+Sensing Module
+PMU
+SENSING MODULE
+Accelerometers Magnetometers Gyroscopes
+Acoustic Sensors
+•
+Proximity Sensors Image Sensors
+Light Sensors
+Gas RFID Sensors
+Pressure Sensors ⚫ Micro Flow
+Humidity Sensors Temperature
+Sensors
+Sensors
+Consumer & Home automation
+Environment
+• Here are the main applications of lot devices and sensors associated with.
+Building Automation
+Light (IR, visible) Contact
+Temperature
+Chemical (co2)
+Accelero
+Industrial
+SENSORS
+INTERNET
+Healthcare & Life science
+Pressure
+Temperature
+Chemical
+Bio Sensors
+Inertial
+Light (IR, X-Ray)
+OF
+THINGS
+YOLE
+Développement
+Legend: Sensor
+Level of demand
+Consumer & Home automation
+Transportation
+Gyroscope
+Temperatur
+Gyroscope
+Pressure
+Accelero
+Chemical
+Accelero
+Temperature
+Magneto
+Magneto
+Pressure
+Chemical
+SAFETY
+FIRST
+Security & Public Safety
+Environment
+Humidity
+Gyro
+Pressure
+Hall Effect
+Chemical
+Light (IR,Optical)
+Accelero
+Temperature
+Chemical
+Temperature
+손바닥에 반사되는 적외선
+감지하여 손동작 인식
+에어 제스처 기능 응용
+터치없이 손동작만 인식 가능
+NEGATIVE
+Light (IR, visible)
+Pressure
+제스처 센서
+RGB 센서,
+Red, Green, Blue
+White별 세기 측정
+홈 센서
+플립 커버의 개폐 상태 인지
+온도/습도 센서
+주변 환경 온도 습도 파악
+X
+Accelero
+Magneto
+Chemical
+Retail & Logistics
+Light (IR.XRay,THz)
+Light (IR/Optical)
+근접 센서
+Pressure
+Temperature
+Chemical
+Magneto
+적외선 활용하여 스마트폰이
+신체에 가까이 위치한 자를 인식
+다이렉트 콜이나
+통화중 화면 꺼주기
+자이로 센서
+단말기 회전 상태를 3축으로 감지하여
+스마트폰의 기울기 인식
+얼굴인식 가능
+가속도 센서,
+단말기 이동 상태를 3축으로 감지
+만보계
+현재 위치의 기압 파악
+자기장 세기를 3축으로 감지
+기압차 및 경사도 계산하여 기압 센서
+지자기 센서
+칼로리 소모 측정 어플
+정확한 방위 측정
+Tilt
+Tilt
+Gravity (g)
+NORTH HEADING OR
+DIRECTION OF TRAVEL
+HEADING
+POSITIVE
+PITCH
+NEGATIVE
+AXIS
+AXIS
+Porous
+POSITIVE
+platinum
+Electrode
+(흡수성 백금 전극)
+Polymer or
+oxide dielectric
+Layer
+(고분자/산화물 절연층)
+Platinum
+electrode
+-Substrate
+Hygroscopic
+material
+(흡습제)
+Platinum
+electrodes
+(백금 전극)
+-Substrate
+(기판)
+Capacitive
+(전기 용량)
+WiFi
+SAMSUNG
+Exynos i $111
+NB-IOT
+To
+사물(종단)
+@
+SAMSUNG
+Exynos i T200
+INTERNET of
+THINGS
+NB IoT
+eNodeBs
+네트워크
+게이트웨이
+(데이터 센터) 그린그라스
+(Greengrass)
+AWS IoT
+클라우드 기반 분석
+abg Wi Fina
+Resistive
+(전기 저항)
+ZigBee
+SAMSUNG
+Exynos i T100
+Bluetooth
+GSM
+200KHZ
+LTE
+LTE
+200kHz
+STAND ALONE
+GUARD BAND
+LTE
+200kHz
+INBAND
+IoT Cloud
+Serving Gateway
+Application Server
+Wi-Fi channels
+1 2 3 4 5 6 7 8 9 10 11 12 13
+Frequencies (MHz) 2402 2407 2412 2417 2422 2427 2432 2437 2442
+2447 2452 2457 2462 2467 2472 2477 2482
+5.150 MHz
+5.180
+Ch 36
+Bluetooth®
+RFID
+5.200
+5.220
+Ch 40 Ch 44
+헬스케어
+-0-
+20 MHz
+5.240
+5.260
+5.280
+5.300
+5.320
+Ch 48 Ch 52
+Ch 56 Ch 60 Ch 64
+Medical
+Health
+pressure
+thermometer check
+/의료 스포츠
+휘트니스
+Recket
+Club
+Bat
+Sneaker
+Motorbike/
+computer
+자동차 전자
+?
+Hands
+Abnormality
+fo
+detection
+5.350 MHz
+시큐리티
+Bluetooth®
+Security Head
+Baby care
+Security
+sensor
+sensor
+sensor
+camera
+SMART
+오토메이션
+www
+Air conditioner Lighting
+device
+Smart Contactless Computer
+meter power
+peripherals ransfer
+엔터
+테인먼트
+O
+Camera
+Video
+Remote
+Toys
+30 glesses
+camera
+control
+웨어러블
+7171
+산업기기
+OA
+Watches Head mount
+display
+Accessory Shirts
+И
+Handy
+Computer
+Mobile Drying
+Work
+terminal
+peripherals
+printer
+machine eficiency
+management managemete control
+Conditioning Open/close Lighting
+control"

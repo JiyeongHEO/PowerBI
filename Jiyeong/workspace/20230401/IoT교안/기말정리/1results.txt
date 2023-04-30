@@ -1,0 +1,192 @@
+
+-1988
+기가 바이트/초
+스마트 홈 빌딩
+음성
+EMB
+3D 비디오, UHD 스크린
+작업 및 놀이(클라우드)
+증강현실
+산업 자동화
+목표달성형(Mission critical) 응용
+스마트 시티
+Self Driving Car
+Future IMT
+MMTC
+2G
+GSM/GPRS/EDGE
+URLLC
+~1998
+~2008
+~2018
+3G
+4G
+5G
+WCDMA/HSPA/HSPA+
+LTE/LTE-Advanced
+NR(New Radio)
+한국 5G 시장 전망
+540
+5G
+이동통신전체
+635
+594
+18,882
+60%
+381
+5%
+154
+세계 5G 시장 전망
+5G
+이동통신전체
+23,175
+20,970
+50%
+11,588
+2%
+378
+3,565
+2020년
+2023년
+2026년
+2020년 2023년 자료: ETRI(한국전자통신연구원), 단위: 억달러 몰입적 경험
+2026년
+지능형 로봇
+스마트 시티
+SMART
+CITY
+스마트 그리드
+ATT:
+SMART GRID
+(
+VR/AR
+원격 의료
+자율 주행
+핀테크
+E
+FINTECH
+e
+Quadruple X1000
+Thousands
+of times
+Thousands
+of times
+Mobile Device
+Mobile Traffic
+공공 안전
+Thousands of times Latency
+Thousands
+of times
+Energy savings
+퀄컴
+3,171
+삼성전자
+2,305
+LG전자
+1,935
+인텔
+1,391
+에릭슨
+1,273
+화웨이
+1,063
+(단위 : 건수)
+0
+500 1,000 1,500 2,000 2,500 3,000 3,500
+Requirements driven
+5G scenarios and KPI
+•
+Operation enhancement
+Smooth evolution consideration
+Technologies driven
+NFV
+separation of software and hardware, provide flexible infrastructure platform
+SDN
+separation of control function and forwarding function, impact on architecture design
+Big Pipe
+Three-planes based 5G network architecture
+Ad hoc network
+Massive
+5G
+Near-Zero
+Connectivity Mobile Cloud Latency Computing
+Diversified RAN networking
+D-RAN (())
+C-RAN
+Macro
+Plug-in
+E
+Distribution
+(((4)))
+OTT
+MVNO Enterprise
+Service exposure
+control plane
+Infrastructure
+Pipeline
+Value-added services
+Context
+Control Radio MM Policy modular
+Resource 0&M Orches tration management
+Network controller
+((s)
+Edge caching
+Service steering
+mesh
+Centralization
+Wi-Fi
+Access plane
+Distributed GW
+Centric DC
+Forwarding plane
+TU
+1865-2015
+一离
+Convergence Services
+Flexible function deployment
+On-demand slicing
+Radio Access network
+control Function
+Core network control Function
+Control Service exposure Plane
+Unified
+Wide area
+Hot spot
+Massive
+Low latency
+infrastructure
+Function
+D2D
+Access Network
+Aggregation Network
+Backbone Network
+Internet
+MTC
+Mesh
+Support diverse networking mode:
+C-RAN, D-RAN, mesh, D2D, BS plug-in
+• To fit different 5G wireless scenarios
+GSC-19 Meeting, 15-16 July 2015, Geneva
+Gateway
+H
+Forward
+Content
+Service enabler Plane
+• Modularized Network function
+• Network functions can be deployed
+flexibly based on NFV platform
+One Logical Architecture, maps to multiple Service Slices.
+Orchestrating network resource on- demand for each slice.
+Isolated slices ensure efficiency, elasticity, security and robustness
+1865-2015
+Mobile Broadband
+Massive lot
+통신/인터넷망 Slice
+통신/인터넷
+5G망
+물류, 농업, 기후망 Slice
+물류,
+농업, 기후
+Mission-Critical loT
+'차, 공장망 Slice
+차, 공장

@@ -1,0 +1,185 @@
+
+Chipset
+CESAR
+RFID 태그
+안테나
+리더기
+호스트
+태그발행기
+RF Module
+ww Reader / Writer
+Host Computer
+~
+NFC
+NFC
+읽기/쓰기
+P2P
+m
+P
+RFID 기본구성
+- Tag
+- Teader
+Antenna
+Antennal
+RFID Tag
+ZigBee®
+APPLICATION/PROFILES
+APPLICATION FRAMEWORK
+NETWRK/SECURTIY LATERS
+Story beam
+ZigBee or OEM
+MAC LAYER
+ZigBee Alliance Platform
+IEEE
+PHY LAYER
+Application
+ZigBee Platform Stack
+Silicon
+COWA
+ZWAVE
+An IPv6 address
+(In hexadecimal)
+2001:0DB8:AC10:FE01:0000:0000:0000:0000
+2001:0DB8:AC10:FE01::
+zeroes can be omitted
+10000000000001 0000110110111000 1010110000010000 : 1111111000000001:
+Emitted
+Signal
+Power
+0000000000000000 0000000000000000 0000000000000000: 0000000000000000
+GPS
+PCS
+ISM band
+Bluetooth,
+802.11b WLAN Cordless Phones
+Microwave Ovens
+802.11a WLAN
+Cordless Phones
+-41 dBm/Mhz
+1.6 1.9 2.4
+VHF Band
+3.1
+UWB Spectrum
+5
+FCC Part 15 Limit
+UHF Band
+Channel Number FREq. (MHz) 54 72 76 88
+CH CH 2-4 5-6
+CH
+FM
+7-13
+CH 14-51
+108 174 216 470
+698
+Sync database
+Network manager
+Internet
+~2014
+Speed
+BLE
+10.6
+Base-station interface
+Weightless network overview
+Wi-Fi
+- 802.11b/a/g/n
+⚫ 802.11ac/ad
+Mobile Network
+• 3G · LTE
+Bluetooth Bluetooth 3.0/4.0
+. Bluetooth 4.0
+NFC RFID
+ZigBee 802.15.4
+SUN
+. 802.15.4g
+Range
+2015~
+Speed
+BLE
+Bluetooth 4.0 NFC RFID
+Wi-Fi
+⚫ 802.11b/a/g/n
+. 802.11ac/ad
+Mobile Network
+• 3G
+· LTE
+• NB-IoT
+. 802.11 ah
+• MTC
+• C-loT
+Bluetooth
+Bluetooth 5,0
+- Bluetooth 3.0/4.0
+LoRa
+LoRaWAN
+Weightless
+Sigfox
+National
+ZigBee
+• 802.15.4
+SUN .802.15.4g
+Zone
+•
+•
+•
+SIGFOX-Technology
+Wireless technology for internet of Things (IoT) and Machine-to-Machine(M2M)
+Long Range
+Low Power Consumption
+Very Low Cost
+Existing Global
+Cloud architecture
+서비스
+플랫폼
+P
+P
+P
+이동통신
+기지국
+LoRa NW 서버
+LoRa
+NW 서버
+((:))
+((:))
+LoRa
+111
+III
+기지국
+LoRa
+단말
+LTE-M
+LTE-M Cat1 N/W
+- 저전력, 소량(D/L10Mbps, U/L 5Mbps)의 Data에 적합한 서비스 Target으로 전국망 서비스 운영 (163)
+(Cat.1)
+LTE-M 디바이스
+LTE 기지국
+LTE 교환기
+IoT 플랫폼
+고객 App 서버
+데이터 송신
+LTE-M 송수신
+가입자/세션관리
+서비스 연동
+서비스관리
+LoRa N/W
+- 상용 LoRa 디바이스, 기지국, NW 서버 개발 완료 및 전국망 구축 완료 (16.6월)
+LPWA
+(()))
+(LoRa)
+יון
+LoRa 디바이스
+LoRa 기지국
+LoRa NW서버
+oT 플랫폼
+고객 App 서버
+데이터 송신
+LoRa 송수신
+가입자/세션 관리
+서비스 연동
+서비스관리
+LPWA
+Range
+Air interface
+sigfox
+Cloud
+Customer IT
+Remote item

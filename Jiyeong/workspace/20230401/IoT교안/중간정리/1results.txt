@@ -1,0 +1,93 @@
+
+데이터 흐름
+제1차 산업혁명
+제2차 산업혁명 제3차 산업혁명
+18세기
+19세기~20세기 초
+20세기 후반
+증기기관기반의 기계화혁명
+전기에너지 기반의 대량생산혁명
+컴퓨터와 인터넷 기반의 지식정보혁명
+증기기관을 활용하여 영국의 섬유공업이 거대산업화
+공장에 전력이 보급 되어 벨트컨베이어를 사용한 대량생산보급
+인터넷과 스마트 혁명으로 미국주도의 글로벌 IT기업 부상
+INDUSTRIAL REVOLUTION
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+ut aliquip ex ea commodo consequat.
+4.0
+3.0
+Cyber Physical Systems, internet of
+1.0
+Mechanization,
+steam power, weaving loom.
+2.0
+Mass production, assembly line, electrical energy.
+Automation, computers and electronics.
+1784
+things,
+network.
+1870
+1969
+TODAY
+FUTURE
+AI
+지능형 SW
+시스템 기술
+기초기술(뇌 과학 등)
+Big data
+저장 분석
+Cloud
+중앙처리
+Mobile
+전달
+IoT
+수집
+공장 무인화
+수요자 맞춤형 생산
+자율 주행 자동차 재난 인명 구조용 드론
+정밀의료 투자 어드바이저 휴머노이즈(감정)
+What can I help you war?
+제4차 산업혁명
+2015년~
+IOT/CPS/인공지능 기반의
+만물초지능혁명
+사람, 사물,공간을 초연결, 초지능화 하여 산업구조 사회 시스템 혁신
+Virtual reality
+Analytics Value chain
+4.0
+Startup
+INDUSTRY
+Cloud computing Team
+Security Automation Factory
+Business model Task list
+System integration
+Communication
+Message
+Model Security
+Programming language Ebedded system
+통번역
+개인 비서 서비스
+헬스케어
+무한대
+무한대
+메모리
+네트워크
+무한대
+CPU
+디지털행성 생태계
+Digital Planet Ecosystem
+AI
+Big-data
+loT
+스마티즌
+5G
+스마트디바이스
+스마트센서
+(100억 명)
+(100억 가입자)
+(1,000억 개)
+(>1조개)
+무한대
+클라우드

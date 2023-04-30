@@ -1,0 +1,235 @@
+
+ENTER
+Park
+PARKING
+Current Location
+Jermyn Street, London, U 8
+Jermyn Street (the north-west side)
+L
+the north west
+Jermyn Street the northwest
+[앤 파크라이트(ParkRight)]
+the northwest
+[센서(SmartEye)]
+[게이트웨이(SmartSpots)]
+TIME LE CANCEL
+OK
+Insert coin or credit card to start
+VEHICLE MUST BE MOVED FROM THIS
+SPACE AFT
+THE TIME
+LIMIT POSTE DEPOSITED
+CITY OR S
+WAWH ERREPAIR
+CALL
+303-640-60
+Gongle
+self-driving car
+[AI Chip]
+Nvidia PX-2 메인보드
+ANNOUNCING
+AUD AND NVIDIA
+BIED AI CAR
+[5G 통신] Qualcomm, Ericsson
+Autonomous
+IONIO
+<볼보의 도로 교통 시스템>
+ICE
+[이미지 인식] Mobileye
+[H/W 제조] Audi, ZF, Bosch.
+[지도 및 교통현황]
+[음성 제어]
+Here, Zenrin
+Google Assistant
+<Ko-TAG system>
+ays
+DEN120
+Google
+주문 인터넷, 킨들, 에코, 에코 닷
+물류센터
+배송
+오프라인 판매
+로보스토, 키바
+비행선, 자율주행차, 아마존 프라임에어
+아마존 고
+amazon
+amazon go
+Prime Air
+amazon go
+NO LINES: NO CHECKOUT
+(NO, SERIOUSLY.)
+amazon
+목소리로 아마존에 주문하는 아마존 창고 로봇 '키바' '에코 닷'
+312.
+302
+304
+351
+드론으로 30분 이내에 배송하는 계산대가 필요 없는 자동화 오프라인 ‘아마존 프라임에어’ 식료품점 '아마존 고'
+-350
+-350
+312
+Mobile Network (3G, Wibro)
+M2M Embedded System
+Farmer
+Remote control terminal
+(Smartphone, Tablet, PC etc.)
+1 오픈 인터넷뱅킹
+Greenhouse management
+server
+5 스마트 브랜치
+2 스마트폰뱅킹
+6 스마트 마케팅 채널
+스마트금융
+3 스마트 전용상품
+7 Advanced Analytics
+4 모바일 지급결제
+콩 LG전자
+8 모바일 오피스
+(7) 개인 맞춤형
+광고 서비스
+(2) 인식정보
+(1) 시각 인식
+大大大大大
+개인 식별
+위치 정보
+O
+ectrabel
+ous avez l'énergie.
+(3) 선호도
+조회
+(6) 선호 유형
+Control
+Monitoring
+Green house
+개인선호도
+분석 빅데이터
+엔진
+(4) 조회 결과:
+홀로그램, 동영상/텍스트
+시각/청각장애
+IOT 광고
+서비스 플랫폼
+(5) 선호 유형
+광고 요청
+광고 제공
+[서비스 적합 네트워크]
+○ 광고 서비스 유형/개인별
+데이터량 가변
+•개인의 위치 변경시에도
+홀로그램
+동영상
+텍스트
+시청각장애
+최상의 View 제공
+IOT 광고 DB
+-사물갯수, 대역폭 결정
+Alexa, 약 7천여 개의 스킬 연결, Al + IoT 생태계 주도 기대감 상승
+Alexa
+Alexa
+Alexa
+Everywhere
+Hub
+Next
+음성인식 기반의 easy UX를 무기로 폭발적 보급
+알렉사 IoT 허브를 중심
+으로 홈에서
+타 제품군으로 확장
+시각/감정인지, 개인 구별, HW모듈 확장 등 기술 진화
+amazon alexa
+알렉사 호환 LG
+알렉사가 탑재된
+감정을 인지하는 영국
+스마트 냉장고
+폭스바겐
+대학벤처
+인공지능 Alexa, 생활의 동반자로 스마트폰 이후 신생태계 촉발
+('14.11 선도 출시, '16.11 미국 500만대 설치, 알렉사 SW공개로 생태계 선도)
+데이터 생성/소비
+연결
+(Connection)
+데이터 처리
+서비스 제공
+TEMPERATURE LIGHT
+PRESSURE
+WATER
+D
+N
+AE AE AE
+AE
+P
+애플리케이션 계층
+(Application Layer)
+공통 서비스 계층
+CSE CSE CSE
+CSE
+!!!
+(Common Services Layer)
+NSE NSE NSE
+네트워크 서비스 계층
+NSE
+(Network Services Layer)
+Application
+Entity (AE)
+C(S)
++
+Mca Reference Point
+Common Services
+Entity (CSE)
++
+Mcn Reference Point
+Underlying Network Service
+Entity (NSE)
+Case 1
+AE
+Mca
+Application
+Dedicated Node
+공
+Mcc Reference Point
+Middle
+Mca
+AE
+Case 2
+AE
+Node
+Application
++X
+AE
+McC
+Mcc
+Dedicated Node
+CSE
+AE
+AE
+AE
+Mcn
+Mca
+To the
+Infrastructure Node of other
+M2M Service
++ Ma
+Mca
++Ma
+Mcc
+Mcc
+Mcc Providers
+Case 3
+CSE
+Application Mcn+ Service Node
+Mcn Node
+CSE
+CSE
+Middle
+Mcn
+Infrastructure
+AE
+Case 4
++Ma
+CSE
+Mcc
+Application
+Mcn+ Service Node
+Node
+330
+300
+350

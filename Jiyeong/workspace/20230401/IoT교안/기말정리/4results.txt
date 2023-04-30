@@ -1,0 +1,535 @@
+Distributed Parallel Computing
+Task Quantum
+Cloud
+End node
+2+2
+2-1
+2+2
+2-1
+Problem
+1+1
+4
+Processed Task
+Cloud
+1
+Intelligent edge computing
+Conventional
+edge node function
+Networking /Storage
+Edge
+node
+Edge node
+End node
+End node
+■클라우드 컴퓨팅과 엣지 컴퓨팅 비교 개념도
+클라우드 컴퓨팅
+Machine Learning
+/intermediate Processing
+New edge node
+function
+엣지 컴퓨팅
+클라우드
+클라우드 5
+> 100ms
+분산처리
+네트워크
+엣지 플랫폼
+10ms
+네트워크
+IoT
+자연시간 단축
+loT
+AL
+Data Center Cloud
+Application Hosting,
+Management
+Core Networking and Service
+IP/MPLS, QoS, Multicast, Security, Network Services, Mobile Packet Core
+Centralized Intelligence: CLOUD Computing
+Distributed Intelligence: CLOUD FOG Computing
+Multi-Service Edge
+3G/4G/LTE/WIFI/ Ethernet/PLC
+Distributed Intelligence: FOG Computing
+Embedded Systems and Sensors
+Smart and less smart
+Things, Vehicles, Machines
+Wired or Wireless
+Port of Amsterdam
+Native Cloud Applications
+Enterprise Workloads
+trakkies
+O TOMY
+Deloitte NONRED
+KPMG
+Master
+Workers
+Beacons
+1+1
+2
+IP/MPLS Core
+Field Area Network
+Smart Thing Network
+QBig Data & Analytics
+Collaboration & Video
+Enterprise
+Private
+Clouds
+webEx
+HCS
+Portal
+laaS
+Partner Clouds
+Intercloud
+Intercloud Fabric
+PaaS
+APIs
+Mictosoft
+Suite aaS
+DRaaS
+יוויייווי
+CISCO
+Cloud Services & Applications APIs
+Pubilc Clouds APIs
+Microsoft Azure
+amazon
+Google
+Meraki
+Security
+Analytics
+HANA aaS vDesktop aaS Energy Management
+Human
+Machine
+웨어러블
+3 Great Forces
+Machine
+Offline
++
+Intelligence
+인공지능, 머신러닝
+Online
+가상·증강기술
+프로그램 경제
+디지털 헬스케어 3D 바이오프린팅 인체강화, 정밀의료
+자율주행차, 로봇, 드론 사물인터넷, 로보인터넷
+스마트 팩토리 등
+2차원 나노물질, 초급속충전
+소셜네트워크 서비스
+:
+Data, Network, Algorithm/Architecture
+<
+따리 등록목록
+커피
+커피
+기존 단기 4,500 9
+가격 1500
+수 1
+3 추가하기
+가격 2500
+파리바켓트
+5,000
+2 추가하기
+46
+머리 상품 판매하러가기
+상품판매현황
+*1,500%
++
+차량에 장착된 카메라 영상을 보며 REC 실제 자동차를 운전하는 기분
+스마트 기기의 센서를 이용한 고
+직관적이면서도 쉬운 조작
+실제 차량과 같은 조명효과
+(고휘도 LED, 전조등, 방향지시등, 비상등)
+촬영된 주행 영상 및 사진 공유기능
+(YouTube, Facebook, Twitter S)
+A Al Back-Tracking System
+_Wi-Fi 통신을 통한 장거리 컨트롤 다자간 동시 플레이 기능
+loT Gateway
+1
+1
+빅데이터
+동급최강 8개의 서스팬션
+여행
+인터넷
+방범카메라
+사무실
+CCTV
+Smart City
+Smart School
+Smart Scanner
+베이비
+모니터
+애완동물
+놀아주기
+FUTURISTIC
+인공지능 사물 인터넷 클라우드 컴퓨팅 가상현실 (딥러닝)
+-1-
+1
+로봇
+보안
+제2차 정보 혁명
+4,0
+제4차 산업혁명
+컴퓨터와 인터넷
+3.0
+기반의 지식정보 혁명
+제3차 산업혁명
+전기 에너지 기반의
+2,0
+대량생산혁명
+제2차 산업혁명
+증기기관 기반의
+1.0
+기계화 혁명
+제1차 산업혁명
+18세기
+19~20세기 초
+20세기 후반
+21세기 초~
+WOOD
+WOR
+MILLS
+229
+LBS
+kt
+kt 5G
+ON 식당
+당신의 초능력 kt 5G
+초능력
+나만을껏 최초의 로봇식당 무슨 능력이냐구?
+2011 1.982012
+거밀쑨!
+먹어 치울 수 있는
+능력 강남 최고의 능력자를 찾고 있어 10
+이번엔 어디냐구? 바로 강남역!
+초등력식당
+그럼
+너의 그 도전받아준다!
+바보! 너의 초능력 보여줘!
+먹는거 자신있어?
+초능력
+왔다왔어
+강남푸드파이터들! 마음껏 덤벼봐~
+너의도전
+한마디로
+바로
+어깨 강남 최고의
+늘려가■ 참고 있어
+ONAR
+무제한으로 마음껏 즐겨라
+ON 식당
+1초에 1.98원
+YouTube
+DISNEY
+•맞춤 동영상
+12:48
+Catalyst LE
+최초이
+니 마음껏
+그럼
+먹어 치울 수 있는 덤벼봐
+능력
+최고의 능력자를 찾고 있어
+초능력 보여줘!
+먹는거 자신있어?
+원이라니!!!
+강남 푸드파이터!
+가음껏 덤벼봐~
+문의전
+우리가 받아주마!!!
+ᅡ먹어치워버려
+를것이왔다
+강남 최고의
+능력자를 찾고 있어
+로봇식담 이번
+능력식당
+#초능력 식당 #1초에 1.98원
+샀다! 왔어!! 커밍 쑨!
+PIZZERIA
+Male
+Age 30
+THINK
+YOU NEED A “COFFEE"
+KR
+검색
+12:23
+FOOD ON MAS
+[All] Liquidvat lat gg
+Press (Enter) to chat
+REPLAY
+CCC
+23
+Coffee shop so-55M
+Espresso
+Cappuccino
+Americana
+Latte
+Mocha
+그냥 미쳤다는
+로그인
+YouTube
+궁금하면 봐라!
+약 빨고 만든 광고 PART.5
+What's your
+recommendation?
+EXIT C
+영어~
+영어 중국어(간체)
+추천 메뉴가
+뭔가요
+한국어~
+Δ
+退出
+O
+10
+ᄆ
+ON 식당
+KTSG ON
+ONS KT SG 2
+다리도 마음껏 즐기세요
+KT 5G 체험관
+13:30
+더보기
+DeepMind
+ww
+STARCRAFT
+DEMONSTRATION
+ON
+운영 기간
+4월 3일 4일
+20-27
+DeepMind
+O
+파이낸셜뉴스
+정치 증권/금융 경제 사회 전국 국제 오피니언 라이프 반려동물
+로봇기자의 증권뉴스 'RASST
+ALEX
+REC
+장마감, 코스닥 하락 종목(한류AI센터 -17.8% ↓)
+16
+ex
+W
+34
+BLA
+20
+EXOD
+1.x
+25일 코스닥 시장에서 하락한 종목으로 한류AI센터 (222810) -17.8%, 디케이디앤아이(033310)
+-17.6%, 비덴트(121800) -17.6% 등이 있다. TRASSI'는 금융 AI 전문기업 씽크풀과 파
+이낸셜뉴
+2019-11-25 15:36:49
+장마감, 코스닥 상승 종목(SK바이오랜드 30.0%↑)
+x
+A25
+25일
+10
+코스닥 시장은 상승 1038개, 하락 228개, 보합 66개로 마감했다. 상승한 종목으로 SK바이오
+랜드(052260) 30.0%, 옴니시스템(057540) 29.9%, 티뭄바이오(321550) 29.7% 등이 있다.
+104
+2019-11-25 15:36:47
+00:00:12
+ID 984093591409
+ID 546543867893
+ID 325465645710
+ID 870293477729
+U-LEX
+•통합
+법령
+법령
+전체 (227)
+시행규칙 (27)
+법률 (53)
+행정규칙(50)
+기타(0)
+판례 저작권
+PIZZERIA
+Q
+판례
+시행령 (47)
+자치입법 (50)
+전체
+민사
+형사 가사 행정
+조세 특허
+헌법
+기타
+672
+313
+189
+0
+33
+31
+19
+19
+87
+0
+저작권법
+□판 277
+현재 저작권법위반
+대구지방법원 포항지원 2004.04.07 선고 2003고정250 판결
+형사소송법
+□판 78
+【이 유】 【범죄사실]
+저작권법 시행규칙
+판 0
+현재 저작권법위반
+서울서부지방법원 2008.12.16 선고 2008760 판결
+형법
+□판 61
+1. 검사의 항소이유 요지(사실오인) 원심판결은 피고인들에 대해 무죄를 선고하였는바, 다음과 같은
+사실오인의 잘못을 저질렀다.
+저작권법 시행령
+□ 판ᄋ
+현재 저작권법위반
+서울서부지방법원 2008.06.11 선고 2007 고정2367 판결
+1. 공소사실 피고인 1은 피고인 2 주식회사의 대표이사, 피고인 2 주식회사는 여행업 등을 목적으로
+문화체육관광부와 그 소속기관 직
+제 시행규칙
+□ 판매
+설립된 법인이다.
+예술인 복지법 시행규칙
+□ 판ᄋ
+Robot Helper
+Lorem
+ipsum dolor sit amet,
+conse ctetur adipiscing elite.
+ᄋᄆᄋ
+Kitchen Robot
+Lorem
+ipsum dolor sit amet,
+conse ctetur adipiscing elite
+Robot Assistant
+Lorem ipsum dolor sit amet,
+conse ctetur adipiscing elite
+Nanny Robot
+Lorem ipsum dolor sit amet,
+conse ctetur adipiscing elite.
+Robot Cat
+Lorem ipsum dolor sit amet,
+Delivery
+conse ctetur adipiscing elite
+Lorem ipsum dolor sit amet,
+conse ctetur adipiscing elite.
+FRAGILE
+Handle With Care
+DO NOT DROP!
+24
+ROBOT VACUUM CLEANER
+sit amet
+Lorem ipsum dolor
+conse ctetur adipiscing elite.
+Robot Cleaner
+Lorem ipsum dolor sit amet
+conse
+ctetur adipiscing elite.
+Robot Dog
+Lorem ipsum dolor sit amet,
+conse ctetur adipiscing elite.
+ВІЯ ШТАБ УГИБДД
+ДПСЕ
+n/a
+□60Hz
+1.00
+0.60
+0.20
+-0.20
+-0.60
+-1.00
+00:01
+분후
+이번열차 부평구청 행 2
+도착예정
+다음옆차
+열차없음
+부평구청
+↑
+0:33
+춘의
+신중동
+부천시청
+상동
+50% Economy Energy
+Cleaning
+Climate
+Entertainment
+Smart Lamp
+Control
+10:23
+DO
+Cloud Service
+CCTV
+Renewable Energy
+SMART HOME
+INFOGRAPHIC
+Remote Control
+Smart Lock
+312
+-0.07
+Workout 10:09
+Hiking
+OPEN GOAL
+부
+20
+89
+WED
+Yoga
+OPEN GOAL
+3457
+걸음 수
+-1.25
+-2.44
+Let g
+7554
+FRAGIL
+0
+81
+Sleep Score
+7654
+Good
+2 times
+amazon go
+GOOD
+FOOD
+FAST
+GRILLED CHICKEN TEXTART WITH BOK CHOY
+WALT DISNEY Pictures
+presents
+TOY
+STORY
+Pikachu
+CMPS
+INERGY BARS
+EXCLUSIVES
+o
+H17
+85
+P4
+221
++
+↑ 26 AVAILABLE L1 AVAILABLE 39 ->
+PLAYERUNKNOWN'S
+P Parking Spaces
+Available
+LEVEL4
+129
+LEVEL3 FULL
+LEVEL2
+94
+LEVEL1
+12
+GROUND FULL
+배틀그라운드
+<타이타닉> 감독 작품
+ᄆ
+아바타
+12월, 새로운 세계가 열린다.
+wir HORIACOKE WEAR
+/Autonomous
+/Sensing
+/Communication
+/Battery
+Riveri**
+/Ecology
+VR
+100m
+48
+mph
+C3 Vertebra
